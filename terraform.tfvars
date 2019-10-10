@@ -2,4 +2,4 @@
 # Prefix must be all lowercase letters, no symbols please.
 # Make sure it is at least 5 characters long.
 
-prefix = "OneStream-demo-1"
+prefix = "OneStreamDemo"
