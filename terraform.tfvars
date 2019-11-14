@@ -2,4 +2,4 @@
 # Prefix must be all lowercase letters, no symbols please.
 # Make sure it is at least 5 characters long.
 
-prefix = "Manjeet-MeetUp-demo-1"
+prefix = "citdemo"
